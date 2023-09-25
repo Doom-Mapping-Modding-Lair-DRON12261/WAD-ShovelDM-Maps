@@ -1,0 +1,116 @@
+===========================================================================
+Advanced engine needed  : Designed to run in DOS, many additional features are 
+                          involved in ports such as Eternity Engine, 
+                          ZDoom-family, Odamex, ZDaemon, etc.
+Primary purpose         : Single play
+===========================================================================
+Title                   : ShovelDM
+Filename                : SHOVELDM.WAD
+Release date            : August 20, 2023
+Author                  : The Shovelware Society
+Email Address           : [redacted]
+Other Files By Author   : PANDORA.wad
+Misc. Author Info       : The Shovelware Society defend the sacred art of
+                          creating 1990s-style maps.
+
+Description             : Shovelware deathmatch levels are a nice novelty,
+                          but now you've got a bunch of "ye olde 1996"
+                          quality maps that are nostalgic, fun, and tested by
+                          the Shovelware Society. They're also
+                          vanilla-compatible and sometimes push the
+                          boundaries of visplane magic. In certain source
+                          ports, there are maps with lightning effects if
+                          you're into that.
+                          
+                          MAP01 - Wicked Garden - xdude_gamer
+                          MAP02 - Legacy of Kings - DRON12261
+                          MAP03 - Deatchmatch Platforming - aRottenKomquat
+                          MAP04 - Showdown - Walter confetti
+                          MAP05 - Bullet Race - DRON12261
+                          MAP06 - Te﻿chbase R﻿eclaim﻿ed - xdude_gamer
+                          MAP07 - Dead Complex - ignatiOS
+                          MAP08 - Base - SilverMiner
+                          MAP09 - Beneath the Cold Bricks - DRON12261
+                          MAP10 - Dirt - shibainumaster
+                          MAP11 - Cornucopia - Gibbon
+
+Additional Credits to   : xdude_gamer - project leader
+                          TITLEPIC, INTERPIC, CREDIT, MAPINFOs, extra graphics 
+                          and help with .wad compiling - DRON12261
+                          
+                          Thunder sound - Eternity Engine resources
+                          MAP09 uses textures from Plutonia 1&2
+                          
+                          MIDI:
+                          MAP01 - Two In One (xdude_gamer, 2023)
+                          MAP02 - Buh-Bye Heavy Lullaby [On Impulse Album] (DAR,
+                          a.k.a Davester2296)
+                          MAP03 - Baphomet (xdude_gamer, 2021)
+                          MAP04 - CCCool (Lee Jackson, 1995)
+                          MAP05 - Start Your Engines! [On Impulse Album] (DAR, 
+                          a.k.a Davester2296)
+                          MAP06 - Like The Wind [The Most Mysterious Song on the
+                          Internet] (originally made around 1983, arranged by 
+                          xdude_gamer, 2021)
+                          MAP07 - Doomcity (originally made in 1995, arranged by
+                          Doomkid, 2023)
+                          MAP08 - EDITSCRN (John Davison, 1996)
+                          MAP09 - Adversary Within (Jimmy)
+                          MAP10 - Skull Fragments (xdude_gamer, 2021)
+                          MAP11 - Interstellar Cosmonaut (xdude_gamer, 2023)
+						  
+===========================================================================
+* What is included *
+
+New levels              : 11
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : 01-11
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Designed for
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : Three weeks
+Editor(s) used          : UDB, Doom Builder 2, TuxGuitar, SLADE 3, Asperite
+Known Bugs              : There's a couple slime trails on MAP08.
+                          Visual bug of water sea during shooting on MAP09 
+                          in ZDaemon.
+May Not Run With        : N/A
+Tested With             : DOOM2.EXE on DOSBox, Chocolate Doom, Rude Doom, 
+                          Crispy Doom, prBoom+, DSDA-Doom, Woof!, Nugget Doom, 
+                          Doom Retro, GZDoom, Zdaemon, Odamex, Zandronum, 
+                          ZDoom 2.8.1, Skulltag, GZDoom and Eternity Engine.
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material for any purpose, even
+commercially. If you do so, you must give appropriate credit, provide a link
+to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you
+or your use.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
