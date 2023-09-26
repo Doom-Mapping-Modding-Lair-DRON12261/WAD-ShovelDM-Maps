@@ -1,4 +1,4 @@
-# ShovelDM Maps [3 maps, Vanilla Format (DOS), DOOM 2]
+# ShovelDM Maps [3 maps, Vanilla (DOS), DOOM 2]
 
 # STATUS: ✅RELEASED
 
